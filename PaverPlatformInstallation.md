@@ -15,22 +15,20 @@
 3. [2-in x 4-in x 4-ft #2 Prime Square Wood Pressure Treated Lumber](https://www.lowes.com/pd/Common-2-in-x-4-in-x-4-ft-Actual-1-5-in-x-3-5-in-x-4-ft-2-Prime-Square-Treated-Treated-Deck-Board/1001005914) - 1 unit
 4. [Plastic 3-in 1 Vial Line/Surface Level](https://www.lowes.com/pd/Johnson-Level-3-in-Line-Surface-Level/1000085677) - 1 unit
 5. [Project Source 14-in Corn Multi-surface All-purpose Upright Broom](https://www.lowes.com/pd/Project-Source-Project-Source-Pro-Corn-Broom-750585/1002832838) - 1 unit
-6. [3M Gasket Plastic Anti-Fog Safety Glasses](https://www.lowes.com/pd/3M-Gasket-Plastic-Anti-Fog-Safety-Glasses/1001879574) - 1 pair
-7. [CRAFTSMAN Cowhide Leather Work Glove Large Unisex Leather Multipurpose Gloves](https://www.lowes.com/pd/CRAFTSMAN-Cowhide-Leather-Work-Glove-Large-Unisex-Leather-Multipurpose-Gloves/1000865862) - 1 pair
-8. [CRAFTSMAN Aluminum 48-in 3 Vial I-beam Level](https://www.lowes.com/pd/CRAFTSMAN-48-in-I-beam-Level/1000596129) - 1 unit
-9. [Project Source 25-ft Tape Measure](https://www.lowes.com/pd/Kobalt-Project-Source-25FT-Tape-Measure/5002026353) - 1 unit
-10. [Project Source 3-Blade Retractable Utility Knife with On Tool Blade Storage](https://www.lowes.com/pd/Project-Source-Project-Source-Retractable-Utility-Knife/5000204667) (optional) - 1 unit
-11. [Project Source 16-oz Smooth Face Rubber Head Wood Rubber Mallet](https://www.lowes.com/pd/Project-Source-16-oz-Smooth-Face-Rubber-Head-Wood-Rubber-Mallet/5013702145) (optional) - 1 unit
-
-### Optional Materials
-
-1. [Expert Edge Flexible Plastic Paver Restraint](https://www.lowes.com/pd/Expert-Edge-Paver-Restraint-6-Ft/1001464148) - 4 pieces
-2. [Expert Edge 16-Pack 8.5-in Black Plastic Paver Spike](https://www.lowes.com/pd/Expert-Edge-Anchoring-Spike-Pack-16-Ct/1002102488) - 2 packs
+6. [CRAFTSMAN Aluminum 48-in 3 Vial I-beam Level](https://www.lowes.com/pd/CRAFTSMAN-48-in-I-beam-Level/1000596129) - 1 unit
+7. [Project Source 25-ft Tape Measure](https://www.lowes.com/pd/Kobalt-Project-Source-25FT-Tape-Measure/5002026353) - 1 unit
+8. [Project Source 3-Blade Retractable Utility Knife with On Tool Blade Storage](https://www.lowes.com/pd/Project-Source-Project-Source-Retractable-Utility-Knife/5000204667) (optional) - 1 unit
+9. [Project Source 16-oz Smooth Face Rubber Head Wood Rubber Mallet](https://www.lowes.com/pd/Project-Source-16-oz-Smooth-Face-Rubber-Head-Wood-Rubber-Mallet/5013702145) (optional) - 1 unit
 
 ### Protective Wear
 
 1. [3M Gasket Plastic Anti-Fog Safety Glasses](https://www.lowes.com/pd/3M-Gasket-Plastic-Anti-Fog-Safety-Glasses/1001879574)
 2. [CRAFTSMAN Cowhide Leather Work Glove Large](https://www.lowes.com/pd/CRAFTSMAN-Cowhide-Leather-Work-Glove-Large-Unisex-Leather-Multipurpose-Gloves/1000865862)
+
+### Optional Materials
+
+1. [Expert Edge Flexible Plastic Paver Restraint](https://www.lowes.com/pd/Expert-Edge-Paver-Restraint-6-Ft/1001464148) - 4 pieces
+2. [Expert Edge 16-Pack 8.5-in Black Plastic Paver Spike](https://www.lowes.com/pd/Expert-Edge-Anchoring-Spike-Pack-16-Ct/1002102488) - 2 packs
 
 #### Optional, based on individual need
 
