@@ -42,35 +42,33 @@
 
 ## Paver Platform Installation Guide
 
-Sure, I understand you'd like more detailed steps. Here's how to proceed with your specific materials and dimensions:
-
 ### Preparation
 **Mark the Perimeter of Your Platform:**
 
-- Measure a 4-foot by 4-foot area with your tape measure.
-- Drive an 18-in wood landscape stake into the ground at each corner of the square using your hand or a rubber mallet. 
-- Attach your fluorescent orange nylon mason line string to the stakes, creating a square outline.
+- Measure a 4-foot by 4-foot area with your [tape measure](https://www.lowes.com/pd/Kobalt-100-ft-Fiberglass-Tape-Measure/1001438306).
+- Drive an [18-in wood landscape stake](https://www.lowes.com/pd/12-Pack-18-in-Wood-Landscape-Stake/5002097545) into the ground at each corner of the square using your [rubber mallet](https://www.lowes.com/pd/Blue-Hawk-Rubber-Mallet/1000377197). 
+- Attach your [fluorescent orange nylon mason line string](https://www.lowes.com/pd/Stringliners-By-U-S-Tape-Stringliners-250-ft-Fluorescent-Orange-Nylon-Mason-Line-String/1001354362) to the stakes, creating a square outline.
 
 **Check the Square:**
 
-- Measure diagonally from one corner to another, and then from the other two corners. If measurements aren't the same, adjust stakes and strings until they are.
+- Measure diagonally from one corner to another, and then from the other two corners using your tape measure. If measurements aren't the same, adjust stakes and strings until they are.
 
 ### Base Layer Installation
 **Dig the Area:**
 
-- Using the square nose shovel, dig out the area inside your strings to a depth of about 5-6 inches, enough to accommodate the pavers and the base layers.
+- Using the [square nose shovel](https://www.lowes.com/pd/CRAFTSMAN-5-in-Fiberglass-Handle-Digging-Shovel/1000578405), dig out the area inside your strings to a depth of about 5-6 inches, enough to accommodate the pavers and the base layers.
 
 **Install the Gravel:**
 
-- Pour the gravel into the dug-out area and spread it evenly to a thickness of about 3 inches.
+- Pour the [gravel](https://www.lowes.com/pd/Sakrete-0-5-cu-ft-Gray-Gravel/1000144045) into the dug-out area and spread it evenly to a thickness of about 3 inches.
 
 **Compact the Gravel:**
 
-- Compact the gravel using the hand tamper, and check for level using your 24-in I-beam level.
+- Compact the gravel using the [hand tamper](https://www.lowes.com/pd/Kraft-Tool-Co-8-in-x-8-in-Magnesium-Tamper/1003209134), and check for level using your [24-in I-beam level](https://www.lowes.com/pd/CRAFTSMAN-24-in-I-beam-Level/1000596117).
 
 **Install the Sand:**
 
-- Spread a 1-inch layer of sand evenly over the gravel.
+- Spread a 1-inch layer of [sand](https://www.lowes.com/pd/QUIKRETE-50-lb-Play-Sand-Sand/3006078) evenly over the gravel.
 
 **Compact and Level the Sand:**
 
@@ -78,28 +76,31 @@ Sure, I understand you'd like more detailed steps. Here's how to proceed with yo
 
 **Install the Landscape Fabric:**
 
-- Cut and lay the landscape fabric over the sand to prevent weeds from growing between your pavers.
+- Cut and lay the [landscape fabric](https://www.lowes.com/pd/Sta-Green-Ultimate-Landscape-Fabric-Common-3-ft-x-50-ft-Actual-3-02-ft-x-50-17-ft/50055135) over the sand to prevent weeds from growing between your pavers.
+
+Of course. Here's an updated version:
 
 ### Paver Installation
 **Lay the Pavers:**
 
-- Start at one corner and lay your first paver, ensuring it's straight and level. 
+- Start at one corner and lay your first [paver](https://www.lowes.com/pd/Square-Gray-Concrete-Patio-Stone-Common-16-in-x-16-in-Actual-16-in-x-16-in/3516912), ensuring it's straight and level. 
 - Continue to lay the pavers, keeping them close together. Since you're using 16-inch pavers, you should have 3 rows of 3 pavers each.
 
 **Check and Adjust the Pavers:**
 
-- Check each paver for alignment and level. If necessary, adjust the sand underneath them.
-- Use your rubber mallet to firmly set the pavers into the sand.
+- Check each paver for alignment and level. If necessary, adjust the sand underneath them. This could mean adding a bit more sand under a paver if it's sitting too low, or removing some sand if it's too high.
+- Use a piece of your 2x4 treated lumber and your 24-in I-beam level to span across multiple pavers and ensure they are at the same height.
+- Once you're satisfied with the positioning and level of each paver, use your rubber mallet to firmly set the pavers into the sand. Be gentle when using the mallet to avoid cracking the pavers.
 
 ### Edging Installation
 **Install the Paver Restraint (Optional):**
 
-- Cut your flexible paver restraint to the length of each side of your square and place it around the edge of the pavers.
+- Cut your [flexible paver restraint](https://www.lowes.com/pd/EasyFlex-100-ft-Black-Plastic-Landscape-Edging-Roll/999989506) to the length of each side of your square and place it around the edge of the pavers.
 
 **Anchor the Restraint (Optional):**
 
 - Position the paver restraint with the lip under the pavers to keep them in place.
-- Drive the spikes through the holes in the restraint and into the ground at intervals of about 1.5-2 feet around the perimeter.
+- Drive the [spikes](https://www.lowes.com/pd/EasyFlex-10-Pack-12-in-Black-Plastic-Landscape-Edging-Spike/50221865) through the holes in the restraint and into the ground at intervals of about 1.5-2 feet around the perimeter.
 
 **Check the Edge (Optional):**
 
