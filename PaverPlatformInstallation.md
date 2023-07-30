@@ -8,6 +8,7 @@
 4. [Scotts 50-ft x 4-ft Premium Gardening Landscape Fabric](https://www.lowes.com/pd/Scotts/5004685485) - 1 roll
 5. [Marshalltown 250-ft Fluorescent Orange Nylon Mason Line String](https://www.lowes.com/pd/Marshalltown-250-ft-Fluorescent-Orange-Nylon-Mason-Line-String/5001845385) - 1 roll
 6. [12-Pack 18-in Wood Landscape Stake](https://www.lowes.com/pd/12-Pack-18-in-Wood-Landscape-Stake/5002097545) - 1 pack
+7. [Project Source 6-in Extra Fine Cut Hack Saw](https://www.lowes.com/pd/Project-Source-6-in-Extra-Fine-Cut-Hack-Saw/5000867661) - 1 unit
 
 ### Tools
 
@@ -95,7 +96,7 @@ Of course. Here's an updated version:
 ### Edging Installation
 **Install the Paver Restraint (Optional):**
 
-- Cut your [flexible paver restraint](https://www.lowes.com/pd/EasyFlex-100-ft-Black-Plastic-Landscape-Edging-Roll/999989506) to the length of each side of your square and place it around the edge of the pavers.
+- Cut your [flexible paver restraint](https://www.lowes.com/pd/EasyFlex-100-ft-Black-Plastic-Landscape-Edging-Roll/999989506) to the length of each side of your square with your [Extra Fine Cut Hack Saw](https://www.lowes.com/pd/Project-Source-6-in-Extra-Fine-Cut-Hack-Saw/5000867661), and place it around the edge of your pavers.
 
 **Anchor the Restraint (Optional):**
 
